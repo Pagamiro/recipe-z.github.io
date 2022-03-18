@@ -7,14 +7,14 @@ Lo que no tiene la plataforma gringa es que su contenido es frio y no
 
 ### Entonces Pan Amasado
 
-Nuestra primera receta es el alimento base para cualquier civilización: [Pancito](https://www.gourmet.cl/?s=Pan+amasado), y quienes componemos este proyecto somos especialmente maestros en el arte del amasado. Unos más técnicos, otros más internacionales, algunos con vocación por la experimentación. Pero en general amamos la masa.
+Nuestra primera receta es el alimento base para cualquier civilización: [Pancito](https://en.wikipedia.org/wiki/Bread), y quienes componemos este proyecto somos especialmente maestros en el arte del amasado. Unos más técnicos, otros más internacionales, algunos con vocación por la experimentación. Pero en general amamos la masa.
 
 ![Image](https://images.pexels.com/photos/3218467/pexels-photo-3218467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=375&w=1910)
 [Photo by Vaibhav Jadhav from Pexels](https://www.pexels.com/photo/man-preparing-dough-for-bread-3218467/)
 
 ### Receta
 
-Nuestro CChO (Chief Chef Officer) nos explica que esta receta es ideal para quienes quieren probar un pan de alta calidad y buscan rentabilizar mediante su venta. 200, 100 panes lo que querai', .
+Nuestro CChO (Chief Chef Officer) nos explica que esta receta es ideal para quienes quieren probar una receta de pan de alta calidad y buscan rentabilizar mediante su venta. 200, 100 panes lo que querai.
 
 
 ```markdown
@@ -26,8 +26,18 @@ Nuestro CChO (Chief Chef Officer) nos explica que esta receta es ideal para quie
 - Levadura seca 10 gramos
 
 `Procedimiento`
+1. En 
+2. Mezclar con
+3. Masa
+4. Reposo en bloque
+5. Reposo por unidad
+6. Horneado
+
+```
+```markdown
+`Bonus`**Haciendo hambre con el chef 🇯🇲**
+Preparando Chancho en Piedra
 
 - [Link](url) and ![Image](src)
 
 ```
-
