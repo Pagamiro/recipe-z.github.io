@@ -11,16 +11,20 @@ Nuestra primera receta es el alimento base para cualquier civilización: [Pancit
 ![Image](https://images.pexels.com/photos/3218467/pexels-photo-3218467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=375&w=1910)
 [Photo by Vaibhav Jadhav from Pexels](https://www.pexels.com/photo/man-preparing-dough-for-bread-3218467/)
 
-### Markdown
+### Receta
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nuestro CChO (Chief Chef Officer) nos explica que esta receta es ideal para quienes quieren probar un pan de alta calidad y piensan escalar el volumen de ventas: 20, 50, 200, 500, tu decides hasta donde llegas.3
+
 
 ```markdown
-Syntax highlighted code block
+Pan amasado para 8-10 personas
+1. Harina 1 kilogramo
+2. Sal 20 gramos
+3. Agua tibia 600 mililitros (ideal a xx °) 
+4. Manteca 50 gramos
+5. Levadura seca 10 gramos
 
-# Header 1
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
