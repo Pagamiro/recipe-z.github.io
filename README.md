@@ -1,8 +1,9 @@
 ## Recipe-z
 
-Sí, sé que no es un buscador aún. Pero estamos partiendo, hay tiempo y el objetivo ya está claro. Una referencia podría ser [este sitio](https://www.gourmet.cl/), sitio estático que entrega contenido estructurado, el buscador es rápido y arroja una serie de tarjetas que coinciden con la palabra. 
+Sí, sé que no es un buscador aún. Pero estamos partiendo, hay tiempo y el objetivo ya está claro. Una referencia podría ser [este sitio](https://www.gourmet.cl/) o este [que es bastante mas completo](https://www.allrecipes.com/recipe/85861/chicken-nepiev/), ambos son un sitio estático, el buscador es rápido y arroja una serie de tarjetas que coinciden con la palabra. Y en el caso de AllRecipes puedes enlistar ingredientes.
 
-Lo que esta plataforma no tiene es un mejor sistema de búsqueda que permita componer resultados y no solo el específico, y eso es lo que iremos desarrollando.
+Lo que la plataforma local de Gourmet no tiene es un mejor sistema de búsqueda que permita componer resultados y no solo el específico, y eso es lo que iremos desarrollando.
+Lo que no tiene la plataforma gringa es que su contenido es frio y no
 
 ### Entonces Pan Amasado
 
@@ -13,27 +14,20 @@ Nuestra primera receta es el alimento base para cualquier civilización: [Pancit
 
 ### Receta
 
-Nuestro CChO (Chief Chef Officer) nos explica que esta receta es ideal para quienes quieren probar un pan de alta calidad y piensan escalar el volumen de ventas: 20, 50, 200, 500, tu decides hasta donde llegas.3
+Nuestro CChO (Chief Chef Officer) nos explica que esta receta es ideal para quienes quieren probar un pan de alta calidad y buscan rentabilizar mediante su venta. 200, 100 panes lo que querai', .
 
 
 ```markdown
-Pan amasado para 8-10 personas
-1. Harina 1 kilogramo
-2. Sal 20 gramos
-3. Agua tibia 600 mililitros (ideal a xx °) 
-4. Manteca 50 gramos
-5. Levadura seca 10 gramos
+**Pan amasado (15 unidades aprox)**
+- Harina 1 kilogramo
+- Sal 20 gramos
+- Agua tibia 600 mililitros (ideal a xx °)
+- Manteca 50 gramos
+- Levadura seca 10 gramos
 
+`Procedimiento`
 
+- [Link](url) and ![Image](src)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
